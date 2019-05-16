@@ -1,0 +1,10 @@
+C:\src\TrivialLinkedList\TrivialLinkedList\bin\Release\netcoreapp2.2\TrivialLinkedList.deps.json
+C:\src\TrivialLinkedList\TrivialLinkedList\bin\Release\netcoreapp2.2\TrivialLinkedList.runtimeconfig.json
+C:\src\TrivialLinkedList\TrivialLinkedList\bin\Release\netcoreapp2.2\TrivialLinkedList.runtimeconfig.dev.json
+C:\src\TrivialLinkedList\TrivialLinkedList\bin\Release\netcoreapp2.2\TrivialLinkedList.dll
+C:\src\TrivialLinkedList\TrivialLinkedList\bin\Release\netcoreapp2.2\TrivialLinkedList.pdb
+C:\src\TrivialLinkedList\TrivialLinkedList\obj\Release\netcoreapp2.2\TrivialLinkedList.csproj.CoreCompileInputs.cache
+C:\src\TrivialLinkedList\TrivialLinkedList\obj\Release\netcoreapp2.2\TrivialLinkedList.AssemblyInfoInputs.cache
+C:\src\TrivialLinkedList\TrivialLinkedList\obj\Release\netcoreapp2.2\TrivialLinkedList.AssemblyInfo.cs
+C:\src\TrivialLinkedList\TrivialLinkedList\obj\Release\netcoreapp2.2\TrivialLinkedList.dll
+C:\src\TrivialLinkedList\TrivialLinkedList\obj\Release\netcoreapp2.2\TrivialLinkedList.pdb
